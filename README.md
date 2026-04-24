@@ -1,4 +1,4 @@
-# Project Name
+# Melu
 
 ## Table of Contents
 
@@ -13,7 +13,8 @@
 
 ## Overview
 
-**Melu** is a app where you can see menus and basic info about local bars. This application can be run using `make` or Docker for an efficient development and deployment workflow.
+**Melu** is an app where you can see menus and basic info about local bars. This application can be run using `make` or Docker for an efficient development and deployment workflow.
+PS! Database is empty!
 
 ---
 
